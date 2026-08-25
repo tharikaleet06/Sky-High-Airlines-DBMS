@@ -187,3 +187,8 @@ PASSENGER ─── BOOKING ─── PAYMENT
                   │
                   │
              USER_ACCOUNT
+
+## Author
+
+**Tharika P**
+
