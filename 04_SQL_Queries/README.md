@@ -42,7 +42,7 @@ Retrieves airport details where the country is France.
 **SQL File:**
 
 ```text
-basic_queries.sql
+(basic_queries.sql)
 ```
 
 # 2. Joins and Subqueries
@@ -72,7 +72,7 @@ Identifies agents who have created more than 100 bookings.
 **SQL File:**
 
 ```text
-joins_subqueries.sql
+(joins_subqueries.sql)
 ```
 
 # 3. Aggregation and Reports
@@ -102,7 +102,7 @@ Groups passengers according to nationality and counts the number of passengers i
 **SQL File:**
 
 ```text
-aggregation_reports.sql
+(aggregation_reports.sql)
 ```
 # 4. Advanced Queries
 
@@ -131,5 +131,9 @@ Creates a database view containing essential flight information.
 **SQL File:**
 
 ```text
-advanced_queries.sql
+(advanced_queries.sql)
+```
+## Author
+
+**Tharika P**
 
