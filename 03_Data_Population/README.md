@@ -48,3 +48,7 @@ The sample `INSERT` statements are available in:
 
 ```text
 sample_inserts.sql
+```
+## Author
+
+**Tharika P**
