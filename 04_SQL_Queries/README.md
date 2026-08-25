@@ -39,11 +39,9 @@ Retrieves all bookings with the status `CANCELLED`.
 
 Retrieves airport details where the country is France.
 
-**SQL File:**
+**SQL File:** [View Basic Queries](basic_queries.sql)
 
-
-(basic_queries.sql)
-
+---
 
 # 2. Joins and Subqueries
 
@@ -69,11 +67,9 @@ Retrieves passengers whose booking type is `ROUND TRIP`.
 
 Identifies agents who have created more than 100 bookings.
 
-**SQL File:**
+**SQL File:** [View Joins and Subqueries](joins_subqueries.sql)
 
-```text
-(joins_subqueries.sql)
-```
+---
 
 # 3. Aggregation and Reports
 
@@ -99,11 +95,10 @@ Calculates and compares the average ticket price for different seat classes.
 
 Groups passengers according to nationality and counts the number of passengers in each group.
 
-**SQL File:**
+**SQL File:** [View Aggregation and Reports](aggregation_reports.sql)
 
-```text
-(aggregation_reports.sql)
-```
+---
+
 # 4. Advanced Queries
 
 This section contains advanced SQL queries used for reporting and more detailed analysis.
@@ -128,13 +123,10 @@ Retrieves passengers whose booking status is recorded as `NO SHOW`.
 
 Creates a database view containing essential flight information.
 
-**SQL File:**
+**SQL File:** [View Advanced Queries](advanced_queries.sql)
 
-```text
-advanced_queries.sql
-https://github.com/tharikaleet06/Sky-High-Airlines-DBMS/blob/main/04_SQL_Queries/advanced_queries.sql
-```
+---
+
 ## Author
 
 **Tharika P**
-
