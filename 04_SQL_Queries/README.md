@@ -41,9 +41,9 @@ Retrieves airport details where the country is France.
 
 **SQL File:**
 
-```text
+
 (basic_queries.sql)
-```
+
 
 # 2. Joins and Subqueries
 
