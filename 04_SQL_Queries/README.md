@@ -131,7 +131,8 @@ Creates a database view containing essential flight information.
 **SQL File:**
 
 ```text
-(advanced_queries.sql)
+advanced_queries.sql
+https://github.com/tharikaleet06/Sky-High-Airlines-DBMS/blob/main/04_SQL_Queries/advanced_queries.sql
 ```
 ## Author
 
